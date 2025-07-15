@@ -1,0 +1,11 @@
+{
+  "Inception": [
+    { "cinema": "SM Mall of Asia", "showtimes": ["12:30 PM", "4:00 PM", "7:30 PM"] },
+    { "cinema": "SM North EDSA",   "showtimes": ["1:00 PM", "5:00 PM", "8:30 PM"] }
+  ],
+  "Avatar": [
+    { "cinema": "SM Megamall",     "showtimes": ["11:00 AM", "3:00 PM", "6:00 PM"] },
+    { "cinema": "SM Aura Premier", "showtimes": ["2:00 PM", "6:30 PM", "9:00 PM"] }
+  ]
+
+}
