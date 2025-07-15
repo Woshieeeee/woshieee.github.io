@@ -1,4 +1,4 @@
-const apiKey = 'YOUR_TMDB_API_KEY'; // Get from https://www.themoviedb.org
+const apiKey = 'ZuXOuXpdudIIavcsIt-LibzN2UuHFdOR'; // Get from https://www.themoviedb.org
 const imgBase = 'https://image.tmdb.org/t/p/w500';
 const resultsEl = document.getElementById('results');
 const searchInput = document.getElementById('searchInput');
